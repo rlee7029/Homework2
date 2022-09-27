@@ -111,6 +111,7 @@ a {
     background-color: white;
     border-radius: 20px;
     color: black;
+     
 }
 
 .contact-info h2 {
@@ -122,3 +123,17 @@ a {
 .contact-info p{
     font-size:35px;
 }
+
+.footer {
+    font-size: 20px;
+}
+
+
+@media screen and (max-width: 768px) {
+    .header,
+    .topicㄴ {
+      flex-direction: column;
+    }
+  }
+
+  
