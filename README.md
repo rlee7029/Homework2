@@ -1,6 +1,6 @@
 # Homework2
 
-
+![site](./assets/images/IMG9.jpeg)
 
 ## Techonlogies Used
 During this project. I used the following techonlogies
